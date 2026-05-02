@@ -28,13 +28,13 @@ This project demonstrates the intersection of **Web3 Infrastructure**, **Data An
 ---
 
 ## 🔗 Live Monitoring (Notion)
-For a visual and interactive dashboard, including detailed performance charts and strategy briefs, visit my **[Professional Notion Portfolio](TON_LIEN_NOTION)**.
+For a visual and interactive dashboard, including detailed performance charts and strategy briefs, visit my **[Professional Notion Portfolio](https://tr.ee/ltq70r)**.
 
 ---
 
 ## ⚡ Join the Ecosystem
 I am actively developing this infrastructure as an independent investor. If you want to explore the same technology or join the GoMining network, feel free to use my affiliate link:
-👉 **[Start Mining with GoMining](TON_LIEN_GOMINING)**
+👉 **[Start Mining with GoMining](https://gomining.com/fr?ref=xmywC)**
 
 ---
 
