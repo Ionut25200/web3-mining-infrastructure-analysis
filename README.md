@@ -3,39 +3,42 @@
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen)
 ![Tech](https://img.shields.io/badge/Tech-Python_|_Pandas_|_Notion-orange)
 
-## 📋 Project Overview
-This repository showcases 14 months of real-world on-chain data management within the **GoMining ecosystem**. As a **Junior Tech Specialist**, I have documented the scaling of a mining farm from initial setup to a stable **104.75 TH/s** operation.
+## 📋 Présentation du Projet
+Ce dépôt documente 14 mois de gestion de données on-chain réelles au sein de l'écosystème **GoMining**. En tant que **Junior Tech Specialist**, j'ai orchestré la montée en puissance d'une ferme de minage de l'installation initiale jusqu'à une opération stable de **104.75 TH/s**.
 
-This project demonstrates the intersection of **Web3 Infrastructure**, **Data Analytics**, and **Financial Strategy**.
-
----
-
-## 📈 Key Metrics & Results
-- **Hashrate:** 104.75 TH/s
-- **Energy Efficiency:** 17.61 W/TH
-- **Observed ROI:** **+115% over 14 months**
-- **Strategy:** Aggressive compounding of game rewards to offset maintenance OpEx.
+Ce projet démontre mes compétences à l'intersection de l'**Infrastructure Web3**, de l'**Analyse de Données** et de la **Stratégie Financière**.
 
 ---
 
-## 📂 Repository Structure
-- `data/`: Contains structured CSV logs of transaction history and monthly performance.
-- `scripts/`: Includes a Python ROI calculator (`roi_calculator.py`) to verify the financial health of the infrastructure.
+## 🔗 Liens Rapides
+- 📄 **[Mon CV Technique Interactif](https://ionut25200.github.io/ionut-tech-cv/)**
+- 📊 **[Dashboard de Pilotage (Notion)](https://deciduous-name-071.notion.site/IONUT-OI-Junior-Tech-Specialist-AI-Prompt-Engineer-352b7a62370b80fdbe5ff4cb9ad60644)**
+- ⛏️ **[Rejoindre l'écosystème GoMining](https://gomining.com/?ref=xmywC)**
 
 ---
 
-## 🔗 Live Monitoring (Notion)
-For a visual and interactive dashboard, including detailed performance charts and strategy briefs, visit my **[Professional Notion Portfolio]([https://deciduous-name-071.notion.site/IONUT-OI-Junior-Tech-Specialist-AI-Prompt-Engineer-352b7a62370b80fdbe5ff4cb9ad60644])**.
+## 📈 Métriques Clés & Résultats
+- **Hashrate :** 104.75 TH/s
+- **Efficacité Énergétique :** 17.61 W/TH
+- **ROI Observé :** **+115% sur 14 mois**
+- **Stratégie :** Réinvestissement agressif des récompenses de jeu pour neutraliser les coûts opérationnels (OpEx).
 
 ---
 
-## ⚡ Join the Ecosystem
-I am actively developing this infrastructure as an independent investor. If you want to explore the same technology or join the GoMining network, feel free to use my affiliate link:
-👉 **[Start Mining with GoMining](TON_LIEN_GOMINING)**
+## 📂 Structure du Repository
+- `data/` : Contient les logs CSV structurés de l'historique des transactions et des performances mensuelles.
+- `scripts/` : Inclut un calculateur de ROI en Python (`roi_calculator.py`) pour vérifier la santé financière de l'infrastructure.
 
 ---
 
-### 🛠 Tech Stack
-- **Languages:** Python (Pandas for data processing).
-- **Versioning:** Git & GitHub.
-- **Reporting:** Notion (Automated Data Views).
+## ⚡ Commencer le Minage
+Je développe activement cette infrastructure en tant qu'investisseur indépendant. Si vous souhaitez explorer la même technologie ou rejoindre le réseau GoMining, utilisez mon lien de recommandation :
+👉 **[Démarrer avec GoMining](https://gomining.com/?ref=xmywC)**
+
+---
+
+### 🛠 Stack Technique
+- **Langages :** Python (Pandas pour le traitement de données).
+- **Versioning :** Git & GitHub.
+- **Reporting :** Notion (Vues de données automatisées).
+- **Web :** GitHub Pages pour le déploiement du CV.
