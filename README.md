@@ -1,6 +1,3 @@
-# web3-mining-infrastructure-analysis
-# 14-month data analysis and ROI monitoring of a 104.75 TH/s mining farm. Proof of Work demonstration.
-
 # 🚀 Web3 Mining Infrastructure Analysis
 
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen)
@@ -28,13 +25,13 @@ This project demonstrates the intersection of **Web3 Infrastructure**, **Data An
 ---
 
 ## 🔗 Live Monitoring (Notion)
-For a visual and interactive dashboard, including detailed performance charts and strategy briefs, visit my **[Professional Notion Portfolio]([https://tr.ee/ltq70r](https://deciduous-name-071.notion.site/IONUT-OI-Junior-Tech-Specialist-AI-Prompt-Engineer-352b7a62370b80fdbe5ff4cb9ad60644))**.
+For a visual and interactive dashboard, including detailed performance charts and strategy briefs, visit my **[Professional Notion Portfolio]([TON_LIEN_NOTION](https://deciduous-name-071.notion.site/IONUT-OI-Junior-Tech-Specialist-AI-Prompt-Engineer-352b7a62370b80fdbe5ff4cb9ad60644))**.
 
 ---
 
 ## ⚡ Join the Ecosystem
 I am actively developing this infrastructure as an independent investor. If you want to explore the same technology or join the GoMining network, feel free to use my affiliate link:
-👉 **[Start Mining with GoMining](https://gomining.com/fr?ref=xmywC)**
+👉 **[Start Mining with GoMining](TON_LIEN_GOMINING)**
 
 ---
 
