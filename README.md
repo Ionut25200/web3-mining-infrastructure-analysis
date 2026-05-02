@@ -28,7 +28,7 @@ This project demonstrates the intersection of **Web3 Infrastructure**, **Data An
 ---
 
 ## 🔗 Live Monitoring (Notion)
-For a visual and interactive dashboard, including detailed performance charts and strategy briefs, visit my **[Professional Notion Portfolio](https://tr.ee/ltq70r)**.
+For a visual and interactive dashboard, including detailed performance charts and strategy briefs, visit my **[Professional Notion Portfolio]([https://tr.ee/ltq70r](https://deciduous-name-071.notion.site/IONUT-OI-Junior-Tech-Specialist-AI-Prompt-Engineer-352b7a62370b80fdbe5ff4cb9ad60644))**.
 
 ---
 
