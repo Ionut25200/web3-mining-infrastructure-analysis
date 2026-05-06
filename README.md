@@ -34,7 +34,7 @@ Le projet repose sur un pipeline de données en 3 étapes :
 ```text
 ├── data/               # Datasets structurés (CSV/JSON)
 ├── src/                # Scripts d'analyse & Core Logic
-│   ├── calculator.py   # Logique de calcul du ROI & Net Profit
+│   ├── analyzer.py   # Logique de calcul du ROI & Net Profit
 │   └── utils.py        # Helpers pour le formatage des données
 ├── docs/               # Schémas d'architecture & Rapports mensuels
 └── README.md           # Documentation technique
