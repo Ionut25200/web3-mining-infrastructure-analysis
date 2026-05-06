@@ -1,44 +1,40 @@
-# 🚀 Web3 Mining Infrastructure Analysis
+# 🛰️ GoMining Infrastructure: Yield Optimization & On-Chain Analysis
+> **Système de pilotage de performance pour une ferme de minage BTC virtualisée.**
 
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen)
-![Tech](https://img.shields.io/badge/Tech-Python_|_Pandas_|_Notion-orange)
+![Data Pipeline](https://img.shields.io/badge/Pipeline-Python_|_Pandas_|_Notion_API-blue)
+![ROI](https://img.shields.io/badge/ROI-115%25_/_14_months-gold)
 
-## 📋 Présentation du Projet
-Ce dépôt documente 14 mois de gestion de données on-chain réelles au sein de l'écosystème **GoMining**. En tant que **Junior Tech Specialist**, j'ai orchestré la montée en puissance d'une ferme de minage de l'installation initiale jusqu'à une opération stable de **104.75 TH/s**.
+## 🎯 Vision du Projet
+Ce repository n'est pas un simple log de transactions. C'est une **architecture de monitoring de données Web3** visant à optimiser l'efficience énergétique et la rentabilité d'une infrastructure de minage de **104.75 TH/s**. 
 
-Ce projet démontre mes compétences à l'intersection de l'**Infrastructure Web3**, de l'**Analyse de Données** et de la **Stratégie Financière**.
-
----
-
-## 🔗 Liens Rapides
-- 📄 **[Mon CV Technique Interactif](https://ionut25200.github.io/ionut-tech-cv/)**
-- 📊 **[Dashboard de Pilotage (Notion)](https://deciduous-name-071.notion.site/IONUT-OI-Junior-Tech-Specialist-AI-Prompt-Engineer-352b7a62370b80fdbe5ff4cb9ad60644)**
-- ⛏️ **[Rejoindre l'écosystème GoMining](https://gomining.com/?ref=xmywC)**
+L'objectif : Transformer des données brutes on-chain en **intelligence décisionnelle**.
 
 ---
 
-## 📈 Métriques Clés & Résultats
-- **Hashrate :** 104.75 TH/s
-- **Efficacité Énergétique :** 17.61 W/TH
-- **ROI Observé :** **+115% sur 14 mois**
-- **Stratégie :** Réinvestissement agressif des récompenses de jeu pour neutraliser les coûts opérationnels (OpEx).
+## 🛠️ Architecture du Système
+Le projet repose sur un pipeline de données en 3 étapes :
+1. **Extraction :** Récupération des logs de rewards et de maintenance via les smart contracts GoMining.
+2. **Traitement (ETL) :** Script Python (`src/analyzer.py`) utilisant Pandas pour calculer le coût réel du TH/s par rapport à la volatilité du BTC.
+3. **Visualisation :** Synchronisation vers un Dashboard Notion pour le pilotage stratégique (OpEx vs RevEx).
 
 ---
 
-## 📂 Structure du Repository
-- `data/` : Contient les logs CSV structurés de l'historique des transactions et des performances mensuelles.
-- `scripts/` : Inclut un calculateur de ROI en Python (`roi_calculator.py`) pour vérifier la santé financière de l'infrastructure.
+## 📊 Métriques d'Ingénierie & Performance
+| Métrique | Valeur | Impact Business |
+| :--- | :--- | :--- |
+| **Hashrate** | 104.75 TH/s | Capacité de production brute stable. |
+| **Energy Efficiency** | 17.61 W/TH | Optimisation des coûts opérationnels (OpEx). |
+| **Yield Strategy** | Game-Fi Reinvestment | Neutralisation des frais de maintenance via les mécaniques d'écosystème. |
+| **Financial Health** | +115% ROI | Validation de la stratégie de croissance sur 14 mois. |
 
 ---
 
-## ⚡ Commencer le Minage
-Je développe activement cette infrastructure en tant qu'investisseur indépendant. Si vous souhaitez explorer la même technologie ou rejoindre le réseau GoMining, utilisez mon lien de recommandation :
-👉 **[Démarrer avec GoMining](https://gomining.com/?ref=xmywC)**
-
----
-
-### 🛠 Stack Technique
-- **Langages :** Python (Pandas pour le traitement de données).
-- **Versioning :** Git & GitHub.
-- **Reporting :** Notion (Vues de données automatisées).
-- **Web :** GitHub Pages pour le déploiement du CV.
+## 📂 Structure du Repository (Modulaire)
+```text
+├── data/               # Datasets structurés (CSV/JSON)
+├── src/                # Scripts d'analyse & Core Logic
+│   ├── calculator.py   # Logique de calcul du ROI & Net Profit
+│   └── utils.py        # Helpers pour le formatage des données
+├── docs/               # Schémas d'architecture & Rapports mensuels
+└── README.md           # Documentation technique
