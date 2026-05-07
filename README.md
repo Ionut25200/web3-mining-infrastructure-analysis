@@ -30,6 +30,10 @@ Le projet repose sur un pipeline de données en 3 étapes :
 
 ---
 
+| "AI & Infrastructure Developer | 104 TH/s Mining Management".
+| "Current Stack" : Python, HTML/CSS, Prompt Engineering, Crypto-Forensics.
+
+
 ## 📂 Structure du Repository (Modulaire)
 ```text
 ├── data/               # Datasets structurés (CSV/JSON)
