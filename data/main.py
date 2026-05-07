@@ -12,7 +12,7 @@ my_hashrate = 105.75
 efficiency_yield = 7
 
 daily_total = calculate_daily_revenue(my_hashrate, efficiency_yield)
-print(f"Current Daily Yield: {daily_total} Satoshis")
+print(f"Current Daily Yield: {daily_total} Satoshis") 
 
 
 
