@@ -29,6 +29,9 @@ Le projet repose sur un pipeline de données en 3 étapes :
 | **Financial Health** | +115% ROI | Validation de la stratégie de croissance sur 14 mois. |
 
 ---
+## AI & Infrastructure Developer | 104 TH/s Mining Management
+
+| Current Stack : Python, HTML/CSS, Prompt Engineering, Crypto-Forensics.
 
 ## 📂 Structure du Repository (Modulaire)
 ```text
