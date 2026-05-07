@@ -5,7 +5,7 @@ def calculate_daily_revenue(hashrate_th, sat_per_th):
   calculates estimated daily revenue in Satoshis.
   Target : 105.75 TH/s @ 7 sat/TH
   """
-  revenue = hasrate_th * sat_per_th
+  revenue = hashrate_th * sat_per_th
   return revenue
 
 my_hashrate = 105.75
